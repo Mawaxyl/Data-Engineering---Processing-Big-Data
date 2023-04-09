@@ -1,7 +1,7 @@
 # Data-Engineering---Processing-Big-Data
 In this project, as a Data Engineer tasked with ingesting and transforming stock market data into a readable, reliable, and robust format. This stock market data contains historical daily prices for all tickers currently trading on Nasdaq.
 
-The tasks include using *Apache Spark* to harness parallel processing in the transformation phase, profiling the data set according to the six dimensions of data quality, and implementing data quality testing with *Deequ*.
+The tasks include using **Apache Spark** to harness parallel processing in the transformation phase, profiling the data set according to the six dimensions of data quality, and implementing data quality testing with **Deequ**.
 
 ## Task 1 - Data Ingestion
 The data was downloaded from S3 bucket and stored it on my local machine.
